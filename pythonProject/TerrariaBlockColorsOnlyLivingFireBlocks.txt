@@ -1,0 +1,6 @@
+Living Fire Block|(253, 62, 3)
+Living Cursed Fire Block|(96, 248, 2)
+Living Demon Fire Block|(105, 74, 202)
+Living Frost Fire Block|(29, 240, 255)
+Living Ichor Block|(254, 202, 80)
+Living Ultrabight Fire Block|(131, 252, 245)
